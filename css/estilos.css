@@ -730,9 +730,13 @@ footer{display:flex;justify-content:space-between;align-items:center;padding:30p
 }
 
 
+.contacto-page .logo a {
+    color: #eddfd1;
+}
+
 .contacto-page h1 {
     font-family: 'Marcellus', serif;
-    color: #5c0c06;
+    color: #eddfd1;
     font-size: 2.5em;
     text-align: center;
 }
